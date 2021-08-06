@@ -29,7 +29,9 @@
         },
         {
           "img": "/img/uploads/destaquetamarine-gallery-img-2020-08-17-20-33-29.jpeg",
-          "mobile_img": "/img/uploads/destaquetamarine-gallery-img-2020-08-17-20-33-29.jpeg"
+          "mobile_img": "/img/uploads/destaquetamarine-gallery-img-2020-08-17-20-33-29.jpeg",
+          "link": "https://aureafarma.com.br/search?term=tamarine",
+          "alt": "tamarine"
         }
       ]
     },
