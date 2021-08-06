@@ -7,7 +7,9 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/dorflex.jpg",
-      "mobile_img": "/img/uploads/dorflex.jpg"
+      "mobile_img": "/img/uploads/dorflex.jpg",
+      "link": "https://aureafarma.com.br/search?term=dorflex",
+      "alt": "dorflex"
     },
     {
       "type": "page-title"
