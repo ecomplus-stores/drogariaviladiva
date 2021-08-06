@@ -48,8 +48,9 @@
         {
           "start": "2021-07-30T18:24:10.165Z",
           "end": "2022-10-01T18:24:10.240Z",
-          "img": "/img/uploads/banner-inverno.jpeg",
-          "mobile_img": "/img/uploads/banner-inverno.jpeg"
+          "img": "/img/uploads/inverno.jpg",
+          "mobile_img": "/img/uploads/inverno.jpg",
+          "link": "https://aureafarma.com.br/alergia-e-gripe"
         }
       ]
     },
