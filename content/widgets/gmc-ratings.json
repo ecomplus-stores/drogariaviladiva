@@ -5,8 +5,8 @@
   "enableCheckout": true,
   "disablePages": true,
   "options": {
-    "badgePosition": "BOTTOM_LEFT",
-    "dialogPosition": "BOTTOM_LEFT_DIALOG",
+    "badgePosition": "INLINE",
+    "dialogPosition": "BOTTOM_TRAY",
     "gmcMerchantId": 467405334
   },
   "stampsAppend": "src/append/stamps"
