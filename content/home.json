@@ -41,7 +41,7 @@
       "collection_id": "60ccc4d2d24de4526fa87d59:categories:Alergia e Gripe:/alergia-e-gripe",
       "limit": 12,
       "page": 1,
-      "title": "Para Gripe e Resfriado",
+      "title": "ALERGIAS, GRIPES E RESFRIADOS",
       "sort": null,
       "link": "https://aureafarma.com.br/alergia-e-gripe"
     },
@@ -87,7 +87,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "60ccc612d24de4526fa87def:categories:Suplementos e Vitaminas:/suplementos-e-vitaminas",
-      "title": "Suplementos e Vitaminas",
+      "title": "SUPLEMENTOS E VITAMINAS",
       "sort": "views",
       "link": "https://aureafarma.com.br/suplementos-e-vitaminas"
     },
@@ -109,7 +109,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "60ccc57ed24de4526fa87db0:categories:Remédio e Colírio para Olhos:/remedio-e-colirio-para-olhos",
-      "link": ""
+      "link": "",
+      "title": "SAÚDE OCULAR"
     },
     {
       "type": "brands-carousel",
